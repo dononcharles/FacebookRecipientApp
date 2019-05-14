@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Facebook Recipient App</string>
+
+    <string name="login.error">Imposible session %s</string>
+    <string name="login.cancel.error">Connexion canceled</string>
+    <string name="recipemain.error">Imposible connexion %s</string>
+    <string name="recipemain.notice.saved">Recipe saved</string>
+    <string name="recipemain.menu.action.list">Recetes Liste</string>
+
+    <string name="global.menu.action.logout">Logout</string>
+    <string name="recipemain.menu.action.main">Liste</string>
+
+    <string name="facebook_app_id"></string>
+    <!--the protocol scheme has the same value as the app_id, except it has 'fb' in front, like
+        app_id = 123456
+        protocol = fb123456
+    -->
+    <string name="fb_login_protocol_scheme"></string>
+</resources>
